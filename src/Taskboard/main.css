@@ -1,0 +1,23 @@
+
+* > li {
+    list-style: none;
+}
+ .task-container{
+    position: absolute;
+    top: 32%;
+    left: 30%;
+    width: 500px;
+    border: 3px solid #004d99;
+} 
+.edit-icon{
+font-size:4rem;
+margin-right:4%;
+margin-top:2%;
+
+}
+.plus-icon{
+font-size: 4rem;
+color: #004d99;
+margin-top: 5%;
+margin-right: 4%;
+}
